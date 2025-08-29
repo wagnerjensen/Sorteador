@@ -13,7 +13,7 @@ if(minimo<maximo){
     alert(numeroAleatorio)
 }
     else {
- alert("numero minimo maior que o numero maximo, favor corrigir")
+ alert("numero minimo maior ou igual que o numero máximo, favor corrigir")
 }
 }
 
